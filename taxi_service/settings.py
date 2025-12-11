@@ -136,3 +136,4 @@ INTERNAL_IPS = [
 ]
 
 LOGOUT_REDIRECT_URL = "taxi:index"
+LOGIN_REDIRECT_URL = "taxi:index"
